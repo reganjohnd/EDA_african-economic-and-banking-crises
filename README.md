@@ -1,2 +1,2 @@
-# EDA_african-economic-and-banking-crises
+# EDA_wine-chemical-composition
 An Exploratory Data Analysis exercise
